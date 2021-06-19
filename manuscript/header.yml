@@ -1,0 +1,15 @@
+---
+# documentclass: ltjsarticle
+documentclass: article
+figureTitle: "Figure"
+tableTitle: "Table"
+listingTitle: "Code"
+figPrefix: "Fig."
+eqnPrefix: "Eq."
+tblPrefix: "Tb."
+lstPrefix: "code"
+mainfont: "Times New Roman"
+# fontsize: 12pt
+bibliography: citations.bib
+csl: vancouver.csl
+---
