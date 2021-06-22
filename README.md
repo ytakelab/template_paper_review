@@ -17,4 +17,4 @@ A markdown template for review papers
 3. Launch manuscript\\compile.bat
 
 ## References
-- Takeuchi Y\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits, *in press*. 14 Jun 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
+- Takeuchi Y\*, Nagy AJ, Barcsai L, Li Q, Ohsawa M, Mizuseki K, Berényi A\*, The medial septum as a potential target for treating brain disorders associated with oscillopathies. Front Neural Circuits 15: 701080. 14 Jun 2021. DOI: https://doi.org/10.3389/fncir.2021.701080
